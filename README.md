@@ -1,4 +1,5 @@
 ![MyPalette](/app/assets/images/ogp.png)
+※clone用
 
 ## MyPalette(マイパレット)
 [https://mypalette.link](https://mypalette.link)
